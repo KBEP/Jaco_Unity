@@ -1,0 +1,17 @@
+[version = 0]	
+	
+[num_to_mod = noun_eng]	
+sl	hour
+pl	hours
+	
+[num_to_mod = noun_eng]	
+sn	day
+pl	days
+	
+[num_to_mod = noun_eng]	
+sn	turn
+pl	turns
+	
+[num_to_mod = noun_eng]	
+sn	time
+pl	times
