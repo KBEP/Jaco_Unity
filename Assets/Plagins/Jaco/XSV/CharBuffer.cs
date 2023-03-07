@@ -28,6 +28,7 @@ namespace Jaco.XSV
 					else builder.Append(c);//append as is
 				}
 				result = builder.ToString();
+				builder.Clear();
 			}
 
 			buffer.Clear();
